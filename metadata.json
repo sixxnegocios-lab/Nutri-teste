@@ -1,0 +1,7 @@
+{
+  "name": "NutriScan AI",
+  "description": "Um aplicativo que utiliza IA para estimar as informações nutricionais de alimentos a partir de uma foto. O usuário insere seus dados (idade, peso, altura) e depois pode tirar uma foto de um alimento para receber uma análise de calorias, proteínas e carboidratos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
